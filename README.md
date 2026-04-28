@@ -1,5 +1,5 @@
-## Hi there 👋
-
+## Hi, I'm Kanthraj👋
+💻python aspirent Developer | AI & ML Enthusiast
 <!--
 **Kanthraj8295/Kanthraj8295** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
