@@ -30,11 +30,11 @@
 * Used feature engineering and model comparison
 * Achieved accurate predictions using ML algorithms
 
-👉 [View Project](./House-Price-Prediction)
+👉 [View Project]()
 
 ---
 
-### 📱 Customer Purchase Prediction
+### 📱 Customer Churn Prediction
 
 * Predicted whether a customer will purchase a product
 * Applied classification algorithms and evaluation metrics
