@@ -7,7 +7,8 @@
 ## 🚀 About Me
 
 * Completed Data Science Internship
-* Skilled in Python, Machine Learning, Data Analysis
+* Copmleted Computer skills and Tally
+* Skilled in Python, Machine Learning, Data Analysis, Deep Learning
 * Passionate about solving real-world problems using data
 
 ---
@@ -16,8 +17,8 @@
 
 * **Programming:** Python
 * **Libraries:** Pandas, NumPy, Matplotlib, Scikit-learn
-* **Techniques:** EDA, Data Preprocessing, Machine Learning, Deep Learning
-* **Other:** NLP, Computer Vision (OpenCV)
+* **Techniques:** EDA, Data Preprocessing, Machine Learning, Deep Learning, Gen AI
+* **Other:** NLP, Computer Vision (OpenCV), MS Office, Tally
 
 ---
 
