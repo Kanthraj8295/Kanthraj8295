@@ -7,7 +7,7 @@
 ## 🚀 About Me
 
 * Completed Data Science Internship
-* Copmleted Computer skills and Tally
+* Copmleted Computer skills and Tally deplomo Course
 * Skilled in Python, Machine Learning, Data Analysis, Deep Learning
 * Passionate about solving real-world problems using data
 
